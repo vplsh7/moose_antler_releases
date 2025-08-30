@@ -72,9 +72,7 @@ Map out a new business venture, plan a software project, or structure a presenta
 ---
 ## Getting Started
 
-*(This section can be updated when you have a release)*
-
-1.  Go to the [Releases Page](https://github.com/YourUsername/moose-antler/releases) (placeholder).
+1.  Go to the [Releases Page](https://github.com/vplsh7/moose_antler_releases/releases).
 2.  Download the latest installer for your operating system.
 3.  Run the app!
 
