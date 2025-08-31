@@ -38,10 +38,13 @@ At its core, Moose Antler is a robust and flexible tool for structuring informat
 ## Core Features
 
 * ✅ **Infinite Canvas:** A fluid, pannable, and zoomable canvas that grows with your ideas.
+![Standard Actions Menu](/assets/images/node_actions.png)
+
 * 💾 **Private:** Your files and settings are saved locally on your device.
 * 🔄 **Cloud Sync Ready:** Save your `.moose` files in any cloud-synced folder (like Google Drive or OneDrive) to seamlessly work across your devices.
-* 📤 **Export to Markdown:** Easily export your mind maps to a structured Markdown file, complete with emoji prefixes for AI-generated ideas, ready to be used in any note-taking app or text editor.
-![Standard Actions Menu](/assets/images/node_actions.png)
+
+* 📤 **Export to Markdown or Freemind XML:** Easily export your mind maps to a structured Markdown file, complete with emoji prefixes for AI-generated ideas, ready to be used in any note-taking app or text editor. Or, export your mindmaps to a conventional mindmapping tool, Freemind (.mm file format).
+![Export Menu](/assets/images/export.png)
 ---
 
 ## Use Cases & Examples
